@@ -1,0 +1,3 @@
+Hello, this is a tool to find specific strings in a file through user input, in this case it is spam_song.txt.
+I wrote most of this code before learning how to do commits, so it is all in a couple commits.
+Word position 3 is in this folder, and that is how far I got before refactoring. Refactoring is incomplete, in Word Position 4 you will see I attempted refactoring. Please check both files as my work is in both of them!
